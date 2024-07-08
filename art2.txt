@@ -1,0 +1,10 @@
+PPPPPPPPPP		A		CCCCCCCC	M          M		 A		N		N
+P	 P	       A A		C		M M	  MM		A A		N N		N
+P	 P	      A   A		C		M  M     M M	       A   A 		N   N		N
+P	 P	     A	   A		C		M   M   M  M	      A     A		N     N		N
+PPPPPPPPPP	    A	    A		C		M    M M   M	     A       A		N       N	N
+P		   AAAAAAAAAAA		C		M     M    M	    AAAAAAAAAAA		N	  N	N
+P		  A           A		C		M          M	   A	       A	N	    N	N
+P		 A             A	C		M	   M	  A             A	N	     N	N
+P		A               A	C		M	   M	 A               A	N 	       NN
+P	       A                 A	CCCCCCCC	M	   M	A                 A	N		N

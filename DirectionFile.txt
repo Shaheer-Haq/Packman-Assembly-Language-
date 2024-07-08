@@ -1,0 +1,19 @@
+Never Played Pac Man Before?
+No Worries! Here's some simple instructions:
+
+1. Pac Man is the 'C' symbol, you will move him around the board by using the
+arrow keys.
+
+2. The purpose is to collect all of dots on the screen, each dot it worth 100
+points.
+
+3. When navigating throughout to board you cannot walk through the walls
+(walls are the '|' and the '_' symbol).
+
+4. There are also random holes throughout the board, if you land in a hole
+you will die and begin back at the begining.
+
+5. Once you collect all the dots and reach a max score of 2300 without
+falling into a hole, you will be asked to continue to the next level.
+
+6. There are a max of 3 levels, each level will get slightly more difficult.
